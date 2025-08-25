@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **junior full stack developer**
+- 🎓 BSc in Management Information Systems (Special) | NSBM Green University**
 
 - 💬 Ask me about **Full-Stack Development**
 
