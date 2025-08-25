@@ -11,7 +11,8 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🎓 BSc in Management Information Systems (Special) | NSBM Green University**
+- 🎓 Degree: BSc in Management Information Systems (Special)  
+- 🏫 University: NSBM Green University, Sri Lanka
 
 - 💬 Ask me about **Full-Stack Development**
 
